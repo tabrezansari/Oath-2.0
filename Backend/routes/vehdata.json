@@ -1,0 +1,81 @@
+[
+    {
+        "id": "1",
+        "veh_no": "Sid.ecosport",
+        "device_no": "23422",
+        "ign": "0",
+        "model":"Ecosport 2018",
+        "ltt":"16-Apr-2019",
+        "speed":"23",
+        "address":"16 Cross Road,Just momo,Sector 1,HSR Layout,HSR Layout Ward,Bommanahalli Zone,Bengaluru,Bangalore Urban,Karnataka",
+        "status":"stopped",
+        "icons" :{"ign":"fas fa-power-off"} 
+       },
+    {
+        "id": "2",
+        "veh_no": "shunmu.hyundai",
+        "device_no": "222333",
+        "ign": "1",
+        "model":"Hyundai i20",
+        "ltt":"12-Apr-2019",
+        "speed":"0",
+        "address":"16 Cross Road,Just momo,Sector 1,HSR Layout,HSR Layout Ward,Bommanahalli Zone,Bengaluru,Bangalore Urban,Karnataka",
+        "status":"active",
+        "icons" :{"ign":"fas fa-power-off"}
+
+    },
+    {
+        "id": "3",
+        "veh_no": "amarnath.celerio",
+        "device_no": "33344",
+        "ign": "0",
+        "model":"Tata celerio",
+        "ltt":"17-Apr-2019",
+        "speed":"0",
+        "address":"16 Cross Road,Just momo,Sector 1,HSR Layout,HSR Layout Ward,Bommanahalli Zone,Bengaluru,Bangalore Urban,Karnataka",
+        "status":"stopped",
+        "icons" :{"ign":"fas fa-power-off"}
+
+    },
+    {
+        "id": "4",
+        "veh_no": "tanmays indica",
+        "device_no": "33332",
+        "ign": "1",
+        "model":"Tata Indica",
+        "ltt":"13-Apr-2019",
+        "speed":"0",
+        "address":"Bagluru cross ",
+        "status":"Runnig",
+        "icons" :{"ign":"fas fa-power-off"}
+
+
+    },
+    {
+        "id": "5",
+        "veh_no": "Amits.r8",
+        "device_no": "23749",
+        "ign": "1",
+        "model":"Audi R8",
+        "ltt":"17-Apr-2019",
+        "speed":"0",
+        "address":"Hunsarmanahalli Bengaluru ",
+        "status":"stopped",
+        "icons" :{"ign":"fas fa-power-off"}
+
+    },
+    {
+        "id": "6",
+        "veh_no": "tabrezs-lambo",
+        "device_no": "09762",
+        "ign": "0",
+        "model":"Lamborghini Gallardo",
+        "ltt":"17-Apr-2019",
+        "speed":"0",
+        "address":"White Field Bengaluru",
+        "status":"Running",
+        "icons" :{"ign":"fas fa-power-off"}
+
+    }
+  
+]
